@@ -1,5 +1,7 @@
 ## Hey there, my name is Akash Vikram Shroff.
 
-I am a self-taught programmer, specialising in Python and I absolutely love solving puzzles and developing algorithms in order to make things work as smoothly and efficiently as possible! I also dabble in a bit of full-stack development with Django, JS, HTML and CSS as well and consistently look to upgrade my skills and the technologies that I am proficient in.
+I am a self-taught programmer, specialising in Python and I love developing algorithms to solve puzzles and make things work as smoothly and efficiently as possible - I'm afraid that my need to automate everything might one day lead to a robot uprising.
 
-For more information about myself and to reach out to me, you can use my LinkedIn [here](http://www.linkedin.com/in/akash-vikram-shroff).
+I dabble in full-stack development with Django, JS, HTML and CSS as well and love building trinkets with my Raspberry Pi.
+
+If you want to reach out to me to chat about anything tech related, you can use my [LinkedIn](http://www.linkedin.com/in/akash-vikram-shroff) or shoot me a [mail](mailto:akushroff@gmail.com).
